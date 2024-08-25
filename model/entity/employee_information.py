@@ -70,4 +70,4 @@ class EmployeeInformation:
     family = property(get_family,set_family)
     checkin_shift = property(get_checkin_shift,set_checkin_shift)
     checkout_shift = property(get_checkout_shift,set_checkout_shift)
-    shift_location = property(get_shift_location)
+    shift_location = property(get_shift_location,set_shift_location)
