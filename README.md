@@ -1,5 +1,6 @@
 # police Department manage system Back-End Front-End with python
-This project contains a police department managment system with a simple view for police employees
+This project contains a police department management system with a simple view for police employees
+And manage prisoner incoming
 
 expandable Back-End and Front-End
 
